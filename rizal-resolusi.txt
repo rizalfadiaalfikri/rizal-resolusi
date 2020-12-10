@@ -1,0 +1,4 @@
+Resolusi Saya di Tahun 2021
+- Membuat Aplikasi Android Untuk Belajar Bahasa Jepang
+- Membuat Website Belajar Bahasa Jepang Menggunakan Php Native dan Php Framework
+- Belajar Tentang Machine Learning dan Data Scientist
