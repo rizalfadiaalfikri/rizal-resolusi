@@ -4,3 +4,5 @@ Rencana Belajar Di Tahun 2021
 - Belajar Bahasa Jepang N3
 - Belajar Basic English
 - Belajar Machine Learning
+- Belajar Deep Learning
+- Belajar NLP
